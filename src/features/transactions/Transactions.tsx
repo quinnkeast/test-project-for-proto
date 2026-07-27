@@ -9,7 +9,7 @@ interface Txn {
 }
 
 const txns: Txn[] = [
-  { id: 1, name: "Payroll deposit", date: "Jun 12", amount: "+$2,480.00" },
+  { id: 1, name: "Payroll deposit", date: "Jun 18", amount: "+$2,480.00" },
   { id: 2, name: "Whole Foods Market", date: "Jun 23", amount: "-$84.21" },
 ];
 
