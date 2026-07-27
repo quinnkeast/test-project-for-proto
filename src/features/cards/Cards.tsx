@@ -6,7 +6,7 @@ function Cards() {
 
   return (
     <div className="view">
-      <Text variant="title">Your cards</Text>
+      <Text variant="title">Your virtual cards</Text>
 
       <section className="card-stack">
         <article className="payment-card">
