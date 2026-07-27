@@ -10,7 +10,7 @@ interface Txn {
 
 const txns: Txn[] = [
   { id: 1, name: "Payroll deposit", date: "Jun 18", amount: "+$2,480.00" },
-  { id: 2, name: "Whole Foods Market", date: "Jun 23", amount: "-$84.21" },
+  { id: 2, name: "Whole Foods Market", date: "Jun 24", amount: "-$84.21" },
 ];
 
 function Transactions() {
