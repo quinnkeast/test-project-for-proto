@@ -11,7 +11,7 @@ function TopBar() {
         <IconButton aria-label="View notifications!">
           <span aria-hidden="true">◔</span>
         </IconButton>
-        <Avatar src="/avatar.svg" alt="Your profile photos" />
+        <Avatar src="/avatar.svg" alt="Your profile photo" />
       </div>
     </header>
   );
